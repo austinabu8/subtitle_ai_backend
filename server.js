@@ -9,6 +9,9 @@ import FormData from "form-data";
 import ffmpeg from "fluent-ffmpeg";
 import { v4 as uuidv4 } from "uuid";
 import { fileURLToPath } from "url";
+import dotenv from 'dotenv'
+dotenv.config()
+
 
 // Setup __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -82,7 +85,7 @@ const upload = multer({
 });
 
 // AssemblyAI API key
-const API_KEY = "ad9a19e198ae4b90a5349b2ac3ad3e03";
+const API_KEY =  process.env.API_KEY;
 
 // Helper function to escape paths for FFmpeg
 function escapeForFFmpeg(filepath) {
