@@ -43,11 +43,12 @@ Transform your videos with perfectly synced, AI-generated subtitles in minutes!
 
 ## 📸 Screenshots
 
-> Add your project images here!
+> Project images showcasing UI:
 
-| Upload & Process             | Result & Preview             | Feedback System            |
-|------------------------------|------------------------------|----------------------------|
-| ![upload](https://user-images.githubusercontent.com/87546654/282465769-622636bf-7951-4bcd-9d38-c0479fd3e12f.png) | *(Add your screenshot here)* | *(Add screenshot here)* |
+<p float="left">
+  <img src="subtitles/upload video" width="48%" />
+  <img src="subtitles/Generate subtitles" width="48%" />
+</p>
 
 ---
 
