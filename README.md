@@ -127,11 +127,10 @@ npm run deploy
 
 ## 🙋‍♂️ Developer
 
-Created & maintained by **[Your Name]**
+Created & maintained by **[Abu Bakar Siddiq]**
 
 - GitHub: [@austinabu8](https://github.com/austinabu8)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: youremail@example.com
+- Email: contactaustinabu.com
 
 ---
 
@@ -143,7 +142,7 @@ Pull requests and issues are welcome! Feel free to suggest features or report bu
 
 ## 📝 License
 
-MIT License © [Your Name]
+MIT License © [Abu Bakar Siddiq]
 
 ---
 
