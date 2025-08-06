@@ -46,10 +46,10 @@ Transform your videos with perfectly synced, AI-generated subtitles in minutes!
 > Project images showcasing UI:
 
 ### 🟢 Upload Video
-![upload video](subtitles/upload video)
+![upload video](subtitles/upload video.png)
 
 ### 🟡 Generate Subtitles
-![Generate Subtitles](subtitles/Generate Subtitles)
+![Generate Subtitles](subtitles/Generate Subtitles.png)
 ---
 
 ## 📝 API Endpoints
