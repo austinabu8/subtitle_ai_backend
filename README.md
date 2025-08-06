@@ -50,6 +50,12 @@ Transform your videos with perfectly synced, AI-generated subtitles in minutes!
 
 ### 🟡 Generate Subtitles
 ![Generate Subtitles](subtitles/Generate_Subtitles.png)
+
+### 🔴 Before Video
+![After Video](subtitles/before.png)
+
+### 🟣 After Video
+![Before Video](subtitles/after.png)
 ---
 
 ## 📝 API Endpoints
